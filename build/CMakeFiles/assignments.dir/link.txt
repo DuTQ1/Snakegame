@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\assignments.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\assignments.dir/objects.a @CMakeFiles\assignments.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\assignments.dir/objects.a -Wl,--no-whole-archive -o assignments.exe -Wl,--out-implib,libassignments.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\assignments.dir\linklibs.rsp

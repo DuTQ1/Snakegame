@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/Administrator/Desktop/Game/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\assignments.dir\\src\\main.cpp.obj -c C:\\Users\\Administrator\\Desktop\\Game\\src\\main.cpp",
+  "file": "C:/Users/Administrator/Desktop/Game/src/main.cpp"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/Game/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\assignments.dir\\src\\Game\\game.cpp.obj -c C:\\Users\\Administrator\\Desktop\\Game\\src\\Game\\game.cpp",
+  "file": "C:/Users/Administrator/Desktop/Game/src/Game/game.cpp"
+},
+{
+  "directory": "C:/Users/Administrator/Desktop/Game/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\assignments.dir\\src\\GameSnake\\GameSnake.cpp.obj -c C:\\Users\\Administrator\\Desktop\\Game\\src\\GameSnake\\GameSnake.cpp",
+  "file": "C:/Users/Administrator/Desktop/Game/src/GameSnake/GameSnake.cpp"
+}
+]
